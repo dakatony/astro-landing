@@ -1,0 +1,20 @@
+{
+    "projects": [
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt necessitatibus quae eius asperiores atque voluptas sint deleniti molestias repudiandae sit ducimus magnam laboriosam, accusantium quis dignissimos ipsum nemo ratione perspiciatis.",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 2",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt necessitatibus quae eius asperiores atque voluptas sint deleniti molestias repudiandae sit ducimus magnam laboriosam, accusantium quis dignissimos ipsum nemo ratione perspiciatis.",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 3",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt necessitatibus quae eius asperiores atque voluptas sint deleniti molestias repudiandae sit ducimus magnam laboriosam, accusantium quis dignissimos ipsum nemo ratione perspiciatis.",
+            "image": "images/fingerprint.svg"
+        }
+    ]
+}
+
